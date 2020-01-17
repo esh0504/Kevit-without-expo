@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KevitApp</string>
+    <string name="kakao_app_key">85e6018c623d3190c864323c83b214b9</string>
+    <string name="kakao_scheme">kakao85e6018c623d3190c864323c83b214b9</string>
+</resources>
