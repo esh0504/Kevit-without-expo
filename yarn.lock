@@ -5259,6 +5259,11 @@ react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.4, react-is
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
 
+react-kakao-map@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/react-kakao-map/-/react-kakao-map-0.0.0.tgz#9fae145356a04a925820dd15894af547363caf55"
+  integrity sha512-HZQqz/2hMzXn3ows0Vja6x5H6m+L5dOGvYY3u8XmvOWY9n+JV7y5v2994BQ2w2NFHDAMaMwzj0jb3YnDAfr8VA==
+
 react-kakao-maps@^0.0.13:
   version "0.0.13"
   resolved "https://registry.yarnpkg.com/react-kakao-maps/-/react-kakao-maps-0.0.13.tgz#e04e9577a93b495baeed39215a4728e0ee277f19"
@@ -5329,6 +5334,11 @@ react-native-screens@^2.0.0-alpha.25:
   integrity sha512-IxKOqPxIWwyJhFOvfkxU/NSFzM5PRiyWWL8g0WCPozVU1KNEtJQp7j0sONkTLGQDkGwLbDu0kuGawT1zXMnE5A==
   dependencies:
     debounce "^1.2.0"
+
+react-native-splash-screen@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-splash-screen/-/react-native-splash-screen-3.2.0.tgz#d47ec8557b1ba988ee3ea98d01463081b60fff45"
+  integrity sha512-Ls9qiNZzW/OLFoI25wfjjAcrf2DZ975hn2vr6U9gyuxi2nooVbzQeFoQS5vQcbCt9QX5NY8ASEEAtlLdIa6KVg==
 
 react-native@^0.61.5:
   version "0.61.5"

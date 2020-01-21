@@ -20,5 +20,8 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>KAKAO_APP_KEY</key>
+    <string>d20ea1517994444f4c6c35ed8fc8cd9b</string>
+
 </dict>
 </plist>
